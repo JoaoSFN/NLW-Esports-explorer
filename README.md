@@ -6,7 +6,7 @@
 
 Projeto construído no evento NextLevelWeek da Rocketseat
 
-[Acesse aqui para acessar](https://zb4con.github.io/NLW-Esports-explorer/)
+[Clique aqui para acessar](https://zb4con.github.io/NLW-Esports-explorer/)
 
 ## Tecnologias
 
